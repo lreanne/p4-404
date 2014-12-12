@@ -1,0 +1,17 @@
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+
+a:link {
+	padding: 1em;
+	margin: 1em;
+	text-decoration: none;
+	background: black;
+	color: #ffffff;
+}
